@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Korozuu
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning JS,C/C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- Discord:Korozuu#5757
+- 🌱 I’m currently learning JS,C/C++/Python
+- 💞️ I’m looking to collaborate on a project
 
 <!---
 Korozuu/Korozuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
