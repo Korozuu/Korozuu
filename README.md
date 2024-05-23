@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Korozuu
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning JS,C/C++/Python
-- 💞️ I’m looking to collaborate on a project
+- I’m interested in Cyber Security
+-  I’m currently learning JS/Python
+
 
 <!---
 Korozuu/Korozuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
